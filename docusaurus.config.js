@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'My Site',
   tagline: 'Dinosaurs are cool',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://kchang12345.github.io/docusaurus-demo',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -16,7 +16,7 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'test', // Usually your GitHub org/user name.
+  organizationName: 'kchang12345', // Usually your GitHub org/user name.
   projectName: 'docusaurus-demo', // Usually your repo name.
   // deploymentBranch: '',
 
